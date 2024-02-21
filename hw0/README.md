@@ -64,9 +64,3 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
-
-### Required Screenshots
-1. log value
-  * ![](./screenshots/Figure2.png)
-2. transaction
-  * ![](./screenshots/Figure3.png)
